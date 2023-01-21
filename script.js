@@ -44,6 +44,10 @@ const quotes = [
     quote: '"Socks are Dobby’s favorite, favorite clothes, sir!"',
     author: 'Dobby',
   },
+  {
+    quote: '"Question everything."',
+    author: 'Einstein',
+  },
 ];
 
 btn.addEventListener('click', function () {
